@@ -1,0 +1,7 @@
+{
+    "jwtSecret":"Iwan Karpets",
+    "port":5000,
+    "baseUrl":"http://localhost:5000",
+    "mongoUri":"mongodb+srv://Ivan:ZXr3nEW4mtyWB06Q@cluster0.zodbl.mongodb.net/app?retryWrites=true&w=majority"
+}
+
